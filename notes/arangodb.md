@@ -23,7 +23,7 @@ All tables were successfully loaded into ArangoDB in approximately **11 minutes*
 The total storage used by the TPC-H dataset in ArangoDB is **3.5 GB**. This was determined using the following commands:
 
 ```bash
-docker exec graph-databases-arangodb du -sh /var/lib/arangodb3
+docker exec graphonauts-arangodb du -sh /var/lib/arangodb3
 ```
 
 Output:
