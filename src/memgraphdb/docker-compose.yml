@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  memgraph:
+    image: memgraph/memgraph:latest
+    container_name: graphonauts-memgraph
+    ports:
+      - "7687:7687"
+      - "7444:7444"
+    volumes:
+      - memgraph_data:/var/lib/memgraph
+    environment:
+      - MEMGRAPH_USER=neo4j
+      - MEMGRAPH_PASSWORD=password
+    command: [
+      "--memory-limit=12884901888",
+      "--bolt-session-inactivity-timeout=0",
+      "--query-execution-timeout-sec=0",
+      "--storage-gc-cycle-sec=300"
+    ]
+    restart: unless-stopped
+
+volumes:
+  memgraph_data:
