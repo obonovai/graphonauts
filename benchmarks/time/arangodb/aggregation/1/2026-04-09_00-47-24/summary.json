@@ -1,0 +1,17 @@
+{
+  "database": "arangodb",
+  "query_category": "aggregation",
+  "query_variant": 1,
+  "description": "COUNT: Count the number of products per brand",
+  "num_runs": 1,
+  "mean_s": 0.085802,
+  "median_s": 0.085802,
+  "stdev_s": 0.0,
+  "min_s": 0.085802,
+  "max_s": 0.085802,
+  "percentile_5_s": 0.085802,
+  "percentile_95_s": 0.085802,
+  "all_times_s": [
+    0.085802
+  ]
+}

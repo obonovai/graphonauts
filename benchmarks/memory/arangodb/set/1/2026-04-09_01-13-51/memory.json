@@ -1,0 +1,10 @@
+{
+  "database": "arangodb",
+  "query_category": "set",
+  "query_variant": 1,
+  "description": "Union: Get a list of contacts (phone) for both suppliers and customers",
+  "timestamp": 1775690031.6439831,
+  "memory_baseline_mb": 1473.496094,
+  "memory_peak_mb": 1473.496094,
+  "memory_usage_mb": 0.0
+}

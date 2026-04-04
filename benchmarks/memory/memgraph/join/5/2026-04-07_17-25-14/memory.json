@@ -1,0 +1,10 @@
+{
+  "database": "memgraph",
+  "query_category": "join",
+  "query_variant": 5,
+  "description": "Neighborhood Search: Find all direct and indirect relationships between customers up to a depth of 3",
+  "timestamp": 1775575514.0998342,
+  "memory_baseline_mb": 4363.871094,
+  "memory_peak_mb": 4372.757812,
+  "memory_usage_mb": 8.886719
+}

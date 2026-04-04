@@ -1,0 +1,10 @@
+{
+  "database": "arangodb",
+  "query_category": "join",
+  "query_variant": 4,
+  "description": "Complex Join 2: Retrieve all customers having more than 1 order",
+  "timestamp": 1775689732.944912,
+  "memory_baseline_mb": 1645.328125,
+  "memory_peak_mb": 1645.328125,
+  "memory_usage_mb": 0.0
+}

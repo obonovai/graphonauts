@@ -1,0 +1,10 @@
+{
+  "database": "memgraph",
+  "query_category": "join",
+  "query_variant": 4,
+  "description": "Complex Join 2: Retrieve all customers having more than 1 order",
+  "timestamp": 1775575361.387208,
+  "memory_baseline_mb": 4363.46875,
+  "memory_peak_mb": 4417.96875,
+  "memory_usage_mb": 54.5
+}

@@ -1,0 +1,9 @@
+{
+  "database": "neo4j",
+  "query_category": "join",
+  "query_variant": 3,
+  "description": "Complex Join 1: Retrieve all order details",
+  "run_number": 16,
+  "timestamp": 1775553880.9420009,
+  "execution_time_s": 0.027596
+}

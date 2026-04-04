@@ -1,0 +1,9 @@
+{
+  "database": "neo4j",
+  "query_category": "selection",
+  "query_variant": 3,
+  "description": "Indexed Columns: Select supplier with the ID 1337",
+  "run_number": 3,
+  "timestamp": 1775554396.376412,
+  "execution_time_s": 0.005488
+}

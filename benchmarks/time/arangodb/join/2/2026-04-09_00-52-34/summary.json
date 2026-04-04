@@ -1,0 +1,17 @@
+{
+  "database": "arangodb",
+  "query_category": "join",
+  "query_variant": 2,
+  "description": "Indexed Columns: Join all products with their orders",
+  "num_runs": 1,
+  "mean_s": 152.498082,
+  "median_s": 152.498082,
+  "stdev_s": 0.0,
+  "min_s": 152.498082,
+  "max_s": 152.498082,
+  "percentile_5_s": 152.498082,
+  "percentile_95_s": 152.498082,
+  "all_times_s": [
+    152.498082
+  ]
+}

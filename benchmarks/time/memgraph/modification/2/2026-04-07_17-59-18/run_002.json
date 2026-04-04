@@ -1,0 +1,9 @@
+{
+  "database": "memgraph",
+  "query_category": "modification",
+  "query_variant": 2,
+  "description": "Indexed Columns Sorting: Sort products by brand",
+  "run_number": 2,
+  "timestamp": 1775577626.7080681,
+  "execution_time_s": 1.226817
+}

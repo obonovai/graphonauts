@@ -1,0 +1,9 @@
+{
+  "database": "neo4j",
+  "query_category": "set",
+  "query_variant": 1,
+  "description": "Union: Get a list of contacts (phone) for both suppliers and customers",
+  "run_number": 6,
+  "timestamp": 1775554496.6897652,
+  "execution_time_s": 0.023472
+}

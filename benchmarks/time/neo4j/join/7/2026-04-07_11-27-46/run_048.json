@@ -1,0 +1,9 @@
+{
+  "database": "neo4j",
+  "query_category": "join",
+  "query_variant": 7,
+  "description": "Optional Traversal: Get a list of all suppliers and their part count (0 if they supply no parts)",
+  "run_number": 48,
+  "timestamp": 1775554097.0734122,
+  "execution_time_s": 0.275402
+}

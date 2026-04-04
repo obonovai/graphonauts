@@ -1,0 +1,17 @@
+{
+  "database": "arangodb",
+  "query_category": "join",
+  "query_variant": 4,
+  "description": "Complex Join 2: Retrieve all customers having more than 1 order",
+  "num_runs": 1,
+  "mean_s": 2.17137,
+  "median_s": 2.17137,
+  "stdev_s": 0.0,
+  "min_s": 2.17137,
+  "max_s": 2.17137,
+  "percentile_5_s": 2.17137,
+  "percentile_95_s": 2.17137,
+  "all_times_s": [
+    2.17137
+  ]
+}

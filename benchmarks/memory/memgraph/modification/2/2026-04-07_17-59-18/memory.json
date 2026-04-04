@@ -1,0 +1,10 @@
+{
+  "database": "memgraph",
+  "query_category": "modification",
+  "query_variant": 2,
+  "description": "Indexed Columns Sorting: Sort products by brand",
+  "timestamp": 1775577558.2083158,
+  "memory_baseline_mb": 4364.570312,
+  "memory_peak_mb": 4501.101562,
+  "memory_usage_mb": 136.53125
+}

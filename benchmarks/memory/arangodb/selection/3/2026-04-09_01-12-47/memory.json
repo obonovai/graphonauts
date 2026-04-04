@@ -1,0 +1,10 @@
+{
+  "database": "arangodb",
+  "query_category": "selection",
+  "query_variant": 3,
+  "description": "Indexed Columns: Select supplier with the ID 1337",
+  "timestamp": 1775689967.621578,
+  "memory_baseline_mb": 1386.695312,
+  "memory_peak_mb": 1386.695312,
+  "memory_usage_mb": 0.0
+}

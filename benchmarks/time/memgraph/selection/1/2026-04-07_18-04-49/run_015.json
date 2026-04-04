@@ -1,0 +1,9 @@
+{
+  "database": "memgraph",
+  "query_category": "selection",
+  "query_variant": 1,
+  "description": "Non-Indexed Columns: Select supplier named 'Supplier#000000666'",
+  "run_number": 15,
+  "timestamp": 1775577944.3084958,
+  "execution_time_s": 0.256741
+}

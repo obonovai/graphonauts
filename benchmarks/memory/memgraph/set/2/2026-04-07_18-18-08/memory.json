@@ -1,0 +1,10 @@
+{
+  "database": "memgraph",
+  "query_category": "set",
+  "query_variant": 2,
+  "description": "Intersection: Find common nations between suppliers and customers",
+  "timestamp": 1775578688.975592,
+  "memory_baseline_mb": 4362.382812,
+  "memory_peak_mb": 4372.0625,
+  "memory_usage_mb": 9.679688
+}

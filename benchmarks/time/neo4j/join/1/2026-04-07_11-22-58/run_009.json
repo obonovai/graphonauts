@@ -1,0 +1,9 @@
+{
+  "database": "neo4j",
+  "query_category": "join",
+  "query_variant": 1,
+  "description": "Non-Indexed Columns: Join supplier and customer through nations on non-indexed comment keywords",
+  "run_number": 9,
+  "timestamp": 1775553796.3851562,
+  "execution_time_s": 0.023313
+}

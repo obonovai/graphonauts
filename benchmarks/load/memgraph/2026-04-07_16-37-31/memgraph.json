@@ -1,0 +1,8 @@
+{
+  "database": "memgraph",
+  "timestamp": 1775572651.2315168,
+  "total_time_s": 579.150049,
+  "memory_baseline_mb": 96.101562,
+  "memory_peak_mb": 2162.046875,
+  "memory_usage_mb": 2065.945312
+}

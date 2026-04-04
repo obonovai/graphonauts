@@ -1,0 +1,21 @@
+# environments
+.env
+.venv
+
+# VS code
+.vscode
+
+# claude code
+.claude
+
+# byte-compiled / optimized / DLL files
+__pycache__/
+
+# data
+tpch-osx/
+
+# repo
+src/nebulagraph/nebula-docker-compose/
+
+# data results from benchmark queries
+benchmarks/results/

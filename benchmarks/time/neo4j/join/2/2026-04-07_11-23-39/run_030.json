@@ -1,0 +1,9 @@
+{
+  "database": "neo4j",
+  "query_category": "join",
+  "query_variant": 2,
+  "description": "Indexed Columns: Join all products with their orders",
+  "run_number": 30,
+  "timestamp": 1775553838.417991,
+  "execution_time_s": 0.019249
+}

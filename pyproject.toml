@@ -1,0 +1,81 @@
+[tool.poetry]
+name = "graphonauts"
+version = "0.1.0"
+description = "Benchmarking framework for graph databases using TPC-H-derived queries"
+authors = ["Ivona Oboňová <ivonaobonova@gmail.com>"]
+packages = [
+    {include = "graphonauts", from = "src"},
+    {include = "utils", from = "src"},
+]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.3.1"
+click = "^8.3.0"
+docker = "^7.1.0"
+matplotlib = "^3.10.7"
+
+[tool.poetry.group.dev.dependencies]
+poethepoet = "^0.36.0"
+mypy = "^1.16.1"
+pytest = "^8.4.1"
+pytest-mypy = "^1.0.1"
+pytest-ruff = "^0.5"
+
+[tool.poetry.group.neo4j]
+# optional = true  # was optional; now installed by default with `poetry install`
+
+[tool.poetry.group.neo4j.dependencies]
+neo4j = "^5.23.0"
+
+[tool.poetry.group.memgraph]
+# optional = true  # was optional; now installed by default with `poetry install`
+
+[tool.poetry.group.memgraph.dependencies]
+neo4j = "^5.23.0"
+
+[tool.poetry.group.arangodb]
+
+[tool.poetry.group.arangodb.dependencies]
+python-arango = "^8.1.0"
+
+[tool.ruff]
+line-length = 120
+output-format = "full"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "PERF", "ARG", "W", "UP", "B"]
+ignore = ["E1", "E4", "E5", "PERF203"]
+
+[tool.ruff.format]
+docstring-code-format = true
+docstring-code-line-length = 120
+
+[tool.poe.tasks]
+_ruff_sort_imports = "ruff check --select I --fix ."
+_ruff_format = "ruff format ."
+format-code = ["_ruff_sort_imports", "_ruff_format"]
+
+# Docker compose tasks
+neo4j-up = {cmd = "docker compose -f src/graphonauts/neo4j_db/docker-compose.yml up -d"}
+neo4j-down = {cmd = "docker compose -f src/graphonauts/neo4j_db/docker-compose.yml down"}
+memgraph-up = {cmd = "docker compose -f src/graphonauts/memgraph_db/docker-compose.yml up -d"}
+memgraph-down = {cmd = "docker compose -f src/graphonauts/memgraph_db/docker-compose.yml down"}
+arangodb-up = {cmd = "docker compose -f src/graphonauts/arangodb_db/docker-compose.yml up -d"}
+arangodb-down = {cmd = "docker compose -f src/graphonauts/arangodb_db/docker-compose.yml down"}
+
+[tool.mypy]
+strict = true
+mypy_path = "src"
+namespace_packages = true
+explicit_package_bases = true
+warn_unused_ignores = true
+warn_unreachable = true
+
+[tool.pytest.ini_options]
+addopts = "--verbose"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

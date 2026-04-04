@@ -1,0 +1,9 @@
+{
+  "database": "memgraph",
+  "query_category": "selection",
+  "query_variant": 4,
+  "description": "Indexed Columns \u2014 Range Query: Select line items shipped between 1995-03-01 and 1995-03-31",
+  "run_number": 20,
+  "timestamp": 1775578432.500192,
+  "execution_time_s": 1.401084
+}

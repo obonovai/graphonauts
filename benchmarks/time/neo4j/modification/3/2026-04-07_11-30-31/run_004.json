@@ -1,0 +1,9 @@
+{
+  "database": "neo4j",
+  "query_category": "modification",
+  "query_variant": 3,
+  "description": "Distinct: Find unique combinations of product brands and the countries of the suppliers selling those products",
+  "run_number": 4,
+  "timestamp": 1775554251.747864,
+  "execution_time_s": 0.508433
+}

@@ -1,0 +1,17 @@
+{
+  "database": "arangodb",
+  "query_category": "modification",
+  "query_variant": 3,
+  "description": "Distinct: Find unique combinations of product brands and the countries of the suppliers selling those products",
+  "num_runs": 1,
+  "mean_s": 5.370594,
+  "median_s": 5.370594,
+  "stdev_s": 0.0,
+  "min_s": 5.370594,
+  "max_s": 5.370594,
+  "percentile_5_s": 5.370594,
+  "percentile_95_s": 5.370594,
+  "all_times_s": [
+    5.370594
+  ]
+}

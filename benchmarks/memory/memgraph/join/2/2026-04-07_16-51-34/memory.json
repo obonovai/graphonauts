@@ -1,0 +1,10 @@
+{
+  "database": "memgraph",
+  "query_category": "join",
+  "query_variant": 2,
+  "description": "Indexed Columns: Join all products with their orders",
+  "timestamp": 1775573494.0465128,
+  "memory_baseline_mb": 4360.183594,
+  "memory_peak_mb": 4366.808594,
+  "memory_usage_mb": 6.625
+}

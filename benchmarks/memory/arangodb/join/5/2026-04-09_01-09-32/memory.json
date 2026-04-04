@@ -1,0 +1,10 @@
+{
+  "database": "arangodb",
+  "query_category": "join",
+  "query_variant": 5,
+  "description": "Neighborhood Search: Find all direct and indirect relationships between customers up to a depth of 3",
+  "timestamp": 1775689772.6222131,
+  "memory_baseline_mb": 1052.667969,
+  "memory_peak_mb": 3008.894531,
+  "memory_usage_mb": 1956.226562
+}

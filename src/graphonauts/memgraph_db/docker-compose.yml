@@ -1,0 +1,38 @@
+services:
+  memgraph:
+    image: memgraph/memgraph:latest
+    container_name: memgraph-graphonaut
+    command: [
+      "--log-level=INFO",
+      "--also-log-to-stderr=true",
+      "--storage-snapshot-on-exit=false",
+      "--storage-wal-enabled=false",
+      "--storage-snapshot-interval-sec=0",
+    ]
+    ports:
+      - "7688:7687"  # bolt protocol (driver connection)
+    volumes:
+      - memgraph_data:/var/lib/memgraph
+      - memgraph_logs:/var/log/memgraph
+    deploy:
+      resources:
+        limits:
+          memory: 16G
+
+#  memgraph-platform:
+#    image: memgraph/memgraph-platform:latest
+#    container_name: memgraph-graphonaut
+#    ports:
+#      - "7688:7687"  # bolt protocol (driver connection)
+#      - "3000:3000"  # memgraph lab UI
+#    volumes:
+#      - memgraph_data:/var/lib/memgraph
+#      - memgraph_logs:/var/log/memgraph
+#    deploy:
+#      resources:
+#        limits:
+#          memory: 16G
+
+volumes:
+  memgraph_data:
+  memgraph_logs:

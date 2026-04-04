@@ -1,0 +1,9 @@
+{
+  "database": "neo4j",
+  "query_category": "join",
+  "query_variant": 6,
+  "description": "Shortest Path: Find the shortest path between two customers",
+  "run_number": 5,
+  "timestamp": 1775554038.600575,
+  "execution_time_s": 0.074501
+}

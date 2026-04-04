@@ -1,0 +1,10 @@
+{
+  "database": "neo4j",
+  "query_category": "set",
+  "query_variant": 2,
+  "description": "Intersection: Find common nations between suppliers and customers",
+  "timestamp": 1775554519.21015,
+  "memory_baseline_mb": 2443.21875,
+  "memory_peak_mb": 2472.761719,
+  "memory_usage_mb": 29.542969
+}

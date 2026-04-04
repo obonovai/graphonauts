@@ -1,0 +1,10 @@
+{
+  "database": "arangodb",
+  "query_category": "selection",
+  "query_variant": 2,
+  "description": "Non-Indexed Columns \u2014 Range Query: Select line items shipped between 1995-03-01 and 1995-03-31",
+  "timestamp": 1775689942.7262259,
+  "memory_baseline_mb": 1540.460938,
+  "memory_peak_mb": 2686.929688,
+  "memory_usage_mb": 1146.46875
+}

@@ -1,0 +1,9 @@
+{
+  "database": "memgraph",
+  "query_category": "join",
+  "query_variant": 3,
+  "description": "Complex Join 1: Retrieve all order details",
+  "run_number": 41,
+  "timestamp": 1775575100.8911202,
+  "execution_time_s": 23.004632
+}

@@ -1,0 +1,10 @@
+{
+  "database": "memgraph",
+  "query_category": "selection",
+  "query_variant": 1,
+  "description": "Non-Indexed Columns: Select supplier named 'Supplier#000000666'",
+  "timestamp": 1775577889.589136,
+  "memory_baseline_mb": 4364.445312,
+  "memory_peak_mb": 4369.90625,
+  "memory_usage_mb": 5.460938
+}

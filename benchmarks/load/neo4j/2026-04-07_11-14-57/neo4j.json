@@ -1,0 +1,8 @@
+{
+  "database": "neo4j",
+  "timestamp": 1775553297.14376,
+  "total_time_s": 545.226431,
+  "memory_baseline_mb": 2489.058594,
+  "memory_peak_mb": 4720.648438,
+  "memory_usage_mb": 2231.589844
+}

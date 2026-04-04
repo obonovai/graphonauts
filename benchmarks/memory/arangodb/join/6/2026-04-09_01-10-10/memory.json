@@ -1,0 +1,10 @@
+{
+  "database": "arangodb",
+  "query_category": "join",
+  "query_variant": 6,
+  "description": "Shortest Path: Find the shortest path between two customers",
+  "timestamp": 1775689810.637281,
+  "memory_baseline_mb": 1733.683594,
+  "memory_peak_mb": 1733.683594,
+  "memory_usage_mb": 0.0
+}

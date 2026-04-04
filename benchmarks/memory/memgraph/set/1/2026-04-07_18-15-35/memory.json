@@ -1,0 +1,10 @@
+{
+  "database": "memgraph",
+  "query_category": "set",
+  "query_variant": 1,
+  "description": "Union: Get a list of contacts (phone) for both suppliers and customers",
+  "timestamp": 1775578535.733119,
+  "memory_baseline_mb": 4366.949219,
+  "memory_peak_mb": 4375.566406,
+  "memory_usage_mb": 8.617188
+}

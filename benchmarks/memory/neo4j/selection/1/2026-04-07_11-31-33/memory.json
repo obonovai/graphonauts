@@ -1,0 +1,10 @@
+{
+  "database": "neo4j",
+  "query_category": "selection",
+  "query_variant": 1,
+  "description": "Non-Indexed Columns: Select supplier named 'Supplier#000000666'",
+  "timestamp": 1775554293.5432599,
+  "memory_baseline_mb": 2391.238281,
+  "memory_peak_mb": 2459.492188,
+  "memory_usage_mb": 68.253906
+}

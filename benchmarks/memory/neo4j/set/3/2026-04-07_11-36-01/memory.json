@@ -1,0 +1,10 @@
+{
+  "database": "neo4j",
+  "query_category": "set",
+  "query_variant": 3,
+  "description": "Difference: Find customers who have not made any orders",
+  "timestamp": 1775554561.633418,
+  "memory_baseline_mb": 2467.070312,
+  "memory_peak_mb": 2557.957031,
+  "memory_usage_mb": 90.886719
+}

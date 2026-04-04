@@ -1,0 +1,17 @@
+{
+  "database": "arangodb",
+  "query_category": "selection",
+  "query_variant": 2,
+  "description": "Non-Indexed Columns \u2014 Range Query: Select line items shipped between 1995-03-01 and 1995-03-31",
+  "num_runs": 1,
+  "mean_s": 2.877908,
+  "median_s": 2.877908,
+  "stdev_s": 0.0,
+  "min_s": 2.877908,
+  "max_s": 2.877908,
+  "percentile_5_s": 2.877908,
+  "percentile_95_s": 2.877908,
+  "all_times_s": [
+    2.877908
+  ]
+}

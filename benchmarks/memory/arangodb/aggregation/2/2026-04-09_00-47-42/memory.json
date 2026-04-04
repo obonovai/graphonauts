@@ -1,0 +1,10 @@
+{
+  "database": "arangodb",
+  "query_category": "aggregation",
+  "query_variant": 2,
+  "description": "MAX: Find the most expensive product per brand",
+  "timestamp": 1775688462.0720441,
+  "memory_baseline_mb": 1415.84375,
+  "memory_peak_mb": 1415.84375,
+  "memory_usage_mb": 0.0
+}

@@ -1,0 +1,17 @@
+{
+  "database": "arangodb",
+  "query_category": "join",
+  "query_variant": 3,
+  "description": "Complex Join 1: Retrieve all order details",
+  "num_runs": 1,
+  "mean_s": 174.709575,
+  "median_s": 174.709575,
+  "stdev_s": 0.0,
+  "min_s": 174.709575,
+  "max_s": 174.709575,
+  "percentile_5_s": 174.709575,
+  "percentile_95_s": 174.709575,
+  "all_times_s": [
+    174.709575
+  ]
+}

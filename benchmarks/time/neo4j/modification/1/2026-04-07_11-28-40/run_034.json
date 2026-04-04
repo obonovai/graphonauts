@@ -1,0 +1,9 @@
+{
+  "database": "neo4j",
+  "query_category": "modification",
+  "query_variant": 1,
+  "description": "Non-Indexed Columns Sorting: Sort products by brand",
+  "run_number": 34,
+  "timestamp": 1775554148.0190232,
+  "execution_time_s": 0.243551
+}

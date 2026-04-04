@@ -1,0 +1,10 @@
+{
+  "database": "memgraph",
+  "query_category": "selection",
+  "query_variant": 2,
+  "description": "Non-Indexed Columns \u2014 Range Query: Select line items shipped between 1995-03-01 and 1995-03-31",
+  "timestamp": 1775578010.330379,
+  "memory_baseline_mb": 4364.511719,
+  "memory_peak_mb": 4370.363281,
+  "memory_usage_mb": 5.851562
+}

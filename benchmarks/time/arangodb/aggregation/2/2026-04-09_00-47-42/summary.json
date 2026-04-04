@@ -1,0 +1,17 @@
+{
+  "database": "arangodb",
+  "query_category": "aggregation",
+  "query_variant": 2,
+  "description": "MAX: Find the most expensive product per brand",
+  "num_runs": 1,
+  "mean_s": 0.066469,
+  "median_s": 0.066469,
+  "stdev_s": 0.0,
+  "min_s": 0.066469,
+  "max_s": 0.066469,
+  "percentile_5_s": 0.066469,
+  "percentile_95_s": 0.066469,
+  "all_times_s": [
+    0.066469
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "database": "memgraph",
+  "query_category": "modification",
+  "query_variant": 3,
+  "description": "Distinct: Find unique combinations of product brands and the countries of the suppliers selling those products",
+  "run_number": 33,
+  "timestamp": 1775577813.8079062,
+  "execution_time_s": 0.775124
+}

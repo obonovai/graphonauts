@@ -1,0 +1,10 @@
+{
+  "database": "neo4j",
+  "query_category": "join",
+  "query_variant": 6,
+  "description": "Shortest Path: Find the shortest path between two customers",
+  "timestamp": 1775554015.2643762,
+  "memory_baseline_mb": 2470.742188,
+  "memory_peak_mb": 3074.082031,
+  "memory_usage_mb": 603.339844
+}

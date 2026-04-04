@@ -1,0 +1,10 @@
+{
+  "database": "neo4j",
+  "query_category": "selection",
+  "query_variant": 2,
+  "description": "Non-Indexed Columns \u2014 Range Query: Select line items shipped between 1995-03-01 and 1995-03-31",
+  "timestamp": 1775554334.439573,
+  "memory_baseline_mb": 2367.789062,
+  "memory_peak_mb": 2475.207031,
+  "memory_usage_mb": 107.417969
+}

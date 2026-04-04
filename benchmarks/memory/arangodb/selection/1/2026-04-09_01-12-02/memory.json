@@ -1,0 +1,10 @@
+{
+  "database": "arangodb",
+  "query_category": "selection",
+  "query_variant": 1,
+  "description": "Non-Indexed Columns: Select supplier named 'Supplier#000000666'",
+  "timestamp": 1775689922.738915,
+  "memory_baseline_mb": 1547.816406,
+  "memory_peak_mb": 1547.816406,
+  "memory_usage_mb": 0.0
+}

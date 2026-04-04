@@ -1,0 +1,10 @@
+{
+  "database": "memgraph",
+  "query_category": "join",
+  "query_variant": 7,
+  "description": "Optional Traversal: Get a list of all suppliers and their part count (0 if they supply no parts)",
+  "timestamp": 1775577264.167937,
+  "memory_baseline_mb": 4360.277344,
+  "memory_peak_mb": 4375.566406,
+  "memory_usage_mb": 15.289062
+}

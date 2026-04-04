@@ -1,0 +1,10 @@
+{
+  "database": "arangodb",
+  "query_category": "aggregation",
+  "query_variant": 1,
+  "description": "COUNT: Count the number of products per brand",
+  "timestamp": 1775688443.846723,
+  "memory_baseline_mb": 1395.464844,
+  "memory_peak_mb": 1395.464844,
+  "memory_usage_mb": 0.0
+}

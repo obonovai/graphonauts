@@ -1,0 +1,9 @@
+{
+  "database": "arangodb",
+  "query_category": "modification",
+  "query_variant": 1,
+  "description": "Non-Indexed Columns Sorting: Sort products by brand",
+  "run_number": 1,
+  "timestamp": 1775689858.542888,
+  "execution_time_s": 0.970333
+}

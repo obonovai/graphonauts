@@ -1,0 +1,9 @@
+{
+  "database": "neo4j",
+  "query_category": "set",
+  "query_variant": 3,
+  "description": "Difference: Find customers who have not made any orders",
+  "run_number": 32,
+  "timestamp": 1775554584.591049,
+  "execution_time_s": 0.129491
+}

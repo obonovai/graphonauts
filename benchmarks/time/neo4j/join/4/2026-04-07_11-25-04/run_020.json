@@ -1,0 +1,9 @@
+{
+  "database": "neo4j",
+  "query_category": "join",
+  "query_variant": 4,
+  "description": "Complex Join 2: Retrieve all customers having more than 1 order",
+  "run_number": 20,
+  "timestamp": 1775553924.1764338,
+  "execution_time_s": 0.018743
+}

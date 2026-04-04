@@ -1,0 +1,9 @@
+{
+  "database": "neo4j",
+  "query_category": "aggregation",
+  "query_variant": 2,
+  "description": "MAX: Find the most expensive product per brand",
+  "run_number": 2,
+  "timestamp": 1775553752.818811,
+  "execution_time_s": 0.114265
+}

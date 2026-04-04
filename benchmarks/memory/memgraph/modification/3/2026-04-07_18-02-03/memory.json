@@ -1,0 +1,10 @@
+{
+  "database": "memgraph",
+  "query_category": "modification",
+  "query_variant": 3,
+  "description": "Distinct: Find unique combinations of product brands and the countries of the suppliers selling those products",
+  "timestamp": 1775577723.879728,
+  "memory_baseline_mb": 4364.183594,
+  "memory_peak_mb": 4371.421875,
+  "memory_usage_mb": 7.238281
+}

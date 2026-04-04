@@ -1,0 +1,10 @@
+{
+  "database": "neo4j",
+  "query_category": "modification",
+  "query_variant": 2,
+  "description": "Indexed Columns Sorting: Sort products by brand",
+  "timestamp": 1775554176.560024,
+  "memory_baseline_mb": 2374.4375,
+  "memory_peak_mb": 2538.503906,
+  "memory_usage_mb": 164.066406
+}

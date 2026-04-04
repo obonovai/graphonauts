@@ -1,0 +1,10 @@
+{
+  "database": "neo4j",
+  "query_category": "join",
+  "query_variant": 4,
+  "description": "Complex Join 2: Retrieve all customers having more than 1 order",
+  "timestamp": 1775553904.597722,
+  "memory_baseline_mb": 2371.628906,
+  "memory_peak_mb": 2485.101562,
+  "memory_usage_mb": 113.472656
+}

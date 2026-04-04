@@ -1,0 +1,9 @@
+{
+  "database": "memgraph",
+  "query_category": "set",
+  "query_variant": 3,
+  "description": "Difference: Find customers who have not made any orders",
+  "run_number": 11,
+  "timestamp": 1775579343.289954,
+  "execution_time_s": 0.577417
+}

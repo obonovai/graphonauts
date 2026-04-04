@@ -1,0 +1,10 @@
+{
+  "database": "arangodb",
+  "query_category": "join",
+  "query_variant": 3,
+  "description": "Complex Join 1: Retrieve all order details",
+  "timestamp": 1775689391.2677288,
+  "memory_baseline_mb": 1495.40625,
+  "memory_peak_mb": 7391.714844,
+  "memory_usage_mb": 5896.308594
+}

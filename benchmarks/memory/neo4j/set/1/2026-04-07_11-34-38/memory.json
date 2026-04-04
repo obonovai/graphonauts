@@ -1,0 +1,10 @@
+{
+  "database": "neo4j",
+  "query_category": "set",
+  "query_variant": 1,
+  "description": "Union: Get a list of contacts (phone) for both suppliers and customers",
+  "timestamp": 1775554478.545293,
+  "memory_baseline_mb": 2450.855469,
+  "memory_peak_mb": 2452.9375,
+  "memory_usage_mb": 2.082031
+}

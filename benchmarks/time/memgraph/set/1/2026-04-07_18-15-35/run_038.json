@@ -1,0 +1,9 @@
+{
+  "database": "memgraph",
+  "query_category": "set",
+  "query_variant": 1,
+  "description": "Union: Get a list of contacts (phone) for both suppliers and customers",
+  "run_number": 38,
+  "timestamp": 1775578612.491116,
+  "execution_time_s": 0.643669
+}

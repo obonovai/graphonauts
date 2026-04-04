@@ -1,0 +1,10 @@
+{
+  "database": "arangodb",
+  "query_category": "join",
+  "query_variant": 2,
+  "description": "Indexed Columns: Join all products with their orders",
+  "timestamp": 1775688754.4164941,
+  "memory_baseline_mb": 1538.074219,
+  "memory_peak_mb": 5049.691406,
+  "memory_usage_mb": 3511.617188
+}

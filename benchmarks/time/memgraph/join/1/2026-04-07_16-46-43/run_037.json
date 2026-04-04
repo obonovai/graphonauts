@@ -1,0 +1,9 @@
+{
+  "database": "memgraph",
+  "query_category": "join",
+  "query_variant": 1,
+  "description": "Non-Indexed Columns: Join supplier and customer through nations on non-indexed comment keywords",
+  "run_number": 37,
+  "timestamp": 1775573382.6705012,
+  "execution_time_s": 3.632899
+}

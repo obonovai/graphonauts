@@ -1,0 +1,17 @@
+{
+  "database": "arangodb",
+  "query_category": "join",
+  "query_variant": 7,
+  "description": "Optional Traversal: Get a list of all suppliers and their part count (0 if they supply no parts)",
+  "num_runs": 1,
+  "mean_s": 0.405685,
+  "median_s": 0.405685,
+  "stdev_s": 0.0,
+  "min_s": 0.405685,
+  "max_s": 0.405685,
+  "percentile_5_s": 0.405685,
+  "percentile_95_s": 0.405685,
+  "all_times_s": [
+    0.405685
+  ]
+}

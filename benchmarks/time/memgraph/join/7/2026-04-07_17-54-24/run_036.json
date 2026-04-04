@@ -1,0 +1,9 @@
+{
+  "database": "memgraph",
+  "query_category": "join",
+  "query_variant": 7,
+  "description": "Optional Traversal: Get a list of all suppliers and their part count (0 if they supply no parts)",
+  "run_number": 36,
+  "timestamp": 1775577339.882679,
+  "execution_time_s": 0.598605
+}

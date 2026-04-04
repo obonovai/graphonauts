@@ -1,0 +1,9 @@
+{
+  "database": "memgraph",
+  "query_category": "selection",
+  "query_variant": 3,
+  "description": "Indexed Columns: Select supplier with the ID 1337",
+  "run_number": 17,
+  "timestamp": 1775578254.585556,
+  "execution_time_s": 0.266592
+}

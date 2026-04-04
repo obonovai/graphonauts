@@ -1,0 +1,9 @@
+{
+  "database": "arangodb",
+  "query_category": "join",
+  "query_variant": 1,
+  "description": "Non-Indexed Columns: Join supplier and customer through nations on non-indexed comment keywords",
+  "run_number": 1,
+  "timestamp": 1775688570.4575648,
+  "execution_time_s": 42.460729
+}

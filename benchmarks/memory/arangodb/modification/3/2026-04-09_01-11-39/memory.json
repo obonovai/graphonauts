@@ -1,0 +1,10 @@
+{
+  "database": "arangodb",
+  "query_category": "modification",
+  "query_variant": 3,
+  "description": "Distinct: Find unique combinations of product brands and the countries of the suppliers selling those products",
+  "timestamp": 1775689899.0466838,
+  "memory_baseline_mb": 1670.875,
+  "memory_peak_mb": 1670.875,
+  "memory_usage_mb": 0.0
+}

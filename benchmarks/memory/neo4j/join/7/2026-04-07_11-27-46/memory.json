@@ -1,0 +1,10 @@
+{
+  "database": "neo4j",
+  "query_category": "join",
+  "query_variant": 7,
+  "description": "Optional Traversal: Get a list of all suppliers and their part count (0 if they supply no parts)",
+  "timestamp": 1775554066.220895,
+  "memory_baseline_mb": 2417.289062,
+  "memory_peak_mb": 2520.882812,
+  "memory_usage_mb": 103.59375
+}

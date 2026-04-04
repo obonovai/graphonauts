@@ -1,0 +1,9 @@
+{
+  "database": "neo4j",
+  "query_category": "aggregation",
+  "query_variant": 1,
+  "description": "COUNT: Count the number of products per brand",
+  "run_number": 31,
+  "timestamp": 1775553711.545411,
+  "execution_time_s": 0.041816
+}

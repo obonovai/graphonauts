@@ -1,0 +1,10 @@
+{
+  "database": "neo4j",
+  "query_category": "selection",
+  "query_variant": 3,
+  "description": "Indexed Columns: Select supplier with the ID 1337",
+  "timestamp": 1775554377.601086,
+  "memory_baseline_mb": 2366.59375,
+  "memory_peak_mb": 2406.535156,
+  "memory_usage_mb": 39.941406
+}

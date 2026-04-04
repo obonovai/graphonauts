@@ -1,0 +1,9 @@
+{
+  "database": "memgraph",
+  "query_category": "join",
+  "query_variant": 6,
+  "description": "Shortest Path: Find the shortest path between two customers",
+  "run_number": 13,
+  "timestamp": 1775576144.9876218,
+  "execution_time_s": 29.797339
+}

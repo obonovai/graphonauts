@@ -1,0 +1,9 @@
+{
+  "database": "neo4j",
+  "query_category": "set",
+  "query_variant": 2,
+  "description": "Intersection: Find common nations between suppliers and customers",
+  "run_number": 34,
+  "timestamp": 1775554538.677896,
+  "execution_time_s": 0.03658
+}

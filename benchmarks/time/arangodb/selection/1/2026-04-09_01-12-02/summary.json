@@ -1,0 +1,17 @@
+{
+  "database": "arangodb",
+  "query_category": "selection",
+  "query_variant": 1,
+  "description": "Non-Indexed Columns: Select supplier named 'Supplier#000000666'",
+  "num_runs": 1,
+  "mean_s": 0.009446,
+  "median_s": 0.009446,
+  "stdev_s": 0.0,
+  "min_s": 0.009446,
+  "max_s": 0.009446,
+  "percentile_5_s": 0.009446,
+  "percentile_95_s": 0.009446,
+  "all_times_s": [
+    0.009446
+  ]
+}

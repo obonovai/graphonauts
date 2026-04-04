@@ -1,0 +1,10 @@
+{
+  "database": "arangodb",
+  "query_category": "join",
+  "query_variant": 1,
+  "description": "Non-Indexed Columns: Join supplier and customer through nations on non-indexed comment keywords",
+  "timestamp": 1775688520.682851,
+  "memory_baseline_mb": 1179.945312,
+  "memory_peak_mb": 1179.945312,
+  "memory_usage_mb": 0.0
+}

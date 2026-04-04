@@ -1,0 +1,9 @@
+{
+  "database": "memgraph",
+  "query_category": "join",
+  "query_variant": 4,
+  "description": "Complex Join 2: Retrieve all customers having more than 1 order",
+  "run_number": 16,
+  "timestamp": 1775575425.66222,
+  "execution_time_s": 0.741744
+}

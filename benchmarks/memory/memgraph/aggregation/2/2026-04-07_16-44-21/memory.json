@@ -1,0 +1,10 @@
+{
+  "database": "memgraph",
+  "query_category": "aggregation",
+  "query_variant": 2,
+  "description": "MAX: Find the most expensive product per brand",
+  "timestamp": 1775573061.165384,
+  "memory_baseline_mb": 4361.632812,
+  "memory_peak_mb": 4367.902344,
+  "memory_usage_mb": 6.269531
+}

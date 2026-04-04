@@ -1,0 +1,10 @@
+{
+  "database": "memgraph",
+  "query_category": "aggregation",
+  "query_variant": 1,
+  "description": "COUNT: Count the number of products per brand",
+  "timestamp": 1775572928.364775,
+  "memory_baseline_mb": 4361.789062,
+  "memory_peak_mb": 4369.851562,
+  "memory_usage_mb": 8.0625
+}

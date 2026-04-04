@@ -1,0 +1,10 @@
+{
+  "database": "arangodb",
+  "query_category": "set",
+  "query_variant": 3,
+  "description": "Difference: Find customers who have not made any orders",
+  "timestamp": 1775691090.3057358,
+  "memory_baseline_mb": 1412.402344,
+  "memory_peak_mb": 1412.402344,
+  "memory_usage_mb": 0.0
+}

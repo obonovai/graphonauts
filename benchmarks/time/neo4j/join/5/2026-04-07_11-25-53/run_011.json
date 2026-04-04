@@ -1,0 +1,9 @@
+{
+  "database": "neo4j",
+  "query_category": "join",
+  "query_variant": 5,
+  "description": "Neighborhood Search: Find all direct and indirect relationships between customers up to a depth of 3",
+  "run_number": 11,
+  "timestamp": 1775553980.111829,
+  "execution_time_s": 0.157369
+}

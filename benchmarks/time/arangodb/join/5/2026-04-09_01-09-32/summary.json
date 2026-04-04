@@ -1,0 +1,17 @@
+{
+  "database": "arangodb",
+  "query_category": "join",
+  "query_variant": 5,
+  "description": "Neighborhood Search: Find all direct and indirect relationships between customers up to a depth of 3",
+  "num_runs": 1,
+  "mean_s": 13.643885,
+  "median_s": 13.643885,
+  "stdev_s": 0.0,
+  "min_s": 13.643885,
+  "max_s": 13.643885,
+  "percentile_5_s": 13.643885,
+  "percentile_95_s": 13.643885,
+  "all_times_s": [
+    13.643885
+  ]
+}

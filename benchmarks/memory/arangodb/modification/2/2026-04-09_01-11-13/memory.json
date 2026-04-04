@@ -1,0 +1,10 @@
+{
+  "database": "arangodb",
+  "query_category": "modification",
+  "query_variant": 2,
+  "description": "Indexed Columns Sorting: Sort products by brand",
+  "timestamp": 1775689873.130559,
+  "memory_baseline_mb": 1563.0,
+  "memory_peak_mb": 1563.0,
+  "memory_usage_mb": 0.0
+}

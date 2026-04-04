@@ -1,0 +1,17 @@
+{
+  "database": "arangodb",
+  "query_category": "set",
+  "query_variant": 2,
+  "description": "Intersection: Find common nations between suppliers and customers",
+  "num_runs": 1,
+  "mean_s": 1.894114,
+  "median_s": 1.894114,
+  "stdev_s": 0.0,
+  "min_s": 1.894114,
+  "max_s": 1.894114,
+  "percentile_5_s": 1.894114,
+  "percentile_95_s": 1.894114,
+  "all_times_s": [
+    1.894114
+  ]
+}

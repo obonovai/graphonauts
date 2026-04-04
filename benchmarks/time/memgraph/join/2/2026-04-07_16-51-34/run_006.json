@@ -1,0 +1,9 @@
+{
+  "database": "memgraph",
+  "query_category": "join",
+  "query_variant": 2,
+  "description": "Indexed Columns: Join all products with their orders",
+  "run_number": 6,
+  "timestamp": 1775573605.2229838,
+  "execution_time_s": 8.652616
+}
