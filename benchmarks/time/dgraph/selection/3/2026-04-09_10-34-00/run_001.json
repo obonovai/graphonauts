@@ -1,0 +1,9 @@
+{
+  "database": "dgraph",
+  "query_category": "selection",
+  "query_variant": 3,
+  "description": "Indexed Columns: Select supplier with the ID 1337",
+  "run_number": 1,
+  "timestamp": 1775723652.652312,
+  "execution_time_s": 0.006152
+}

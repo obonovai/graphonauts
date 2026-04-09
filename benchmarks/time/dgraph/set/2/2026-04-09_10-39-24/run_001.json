@@ -1,0 +1,9 @@
+{
+  "database": "dgraph",
+  "query_category": "set",
+  "query_variant": 2,
+  "description": "Intersection: Find common nations between suppliers and customers",
+  "run_number": 1,
+  "timestamp": 1775723971.152642,
+  "execution_time_s": 0.46329
+}

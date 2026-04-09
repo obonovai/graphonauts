@@ -1,0 +1,17 @@
+{
+  "database": "dgraph",
+  "query_category": "selection",
+  "query_variant": 4,
+  "description": "Indexed Columns \u2014 Range Query: Select line items shipped between 1995-03-01 and 1995-03-31",
+  "num_runs": 1,
+  "mean_s": 1.804328,
+  "median_s": 1.804328,
+  "stdev_s": 0.0,
+  "min_s": 1.804328,
+  "max_s": 1.804328,
+  "percentile_5_s": 1.804328,
+  "percentile_95_s": 1.804328,
+  "all_times_s": [
+    1.804328
+  ]
+}

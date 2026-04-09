@@ -1,0 +1,10 @@
+{
+  "database": "dgraph",
+  "query_category": "aggregation",
+  "query_variant": 1,
+  "description": "COUNT: Count the number of products per brand",
+  "timestamp": 1775723752.9268281,
+  "memory_baseline_mb": 86.777344,
+  "memory_peak_mb": 554.320312,
+  "memory_usage_mb": 467.542969
+}

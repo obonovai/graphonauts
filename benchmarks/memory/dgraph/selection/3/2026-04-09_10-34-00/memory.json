@@ -1,0 +1,10 @@
+{
+  "database": "dgraph",
+  "query_category": "selection",
+  "query_variant": 3,
+  "description": "Indexed Columns: Select supplier with the ID 1337",
+  "timestamp": 1775723640.653483,
+  "memory_baseline_mb": 91.898438,
+  "memory_peak_mb": 97.550781,
+  "memory_usage_mb": 5.652344
+}

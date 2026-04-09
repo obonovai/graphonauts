@@ -1,0 +1,10 @@
+{
+  "database": "dgraph",
+  "query_category": "selection",
+  "query_variant": 1,
+  "description": "Non-Indexed Columns: Select supplier named 'Supplier#000000666'",
+  "timestamp": 1775723539.9786339,
+  "memory_baseline_mb": 91.082031,
+  "memory_peak_mb": 98.050781,
+  "memory_usage_mb": 6.96875
+}

@@ -1,0 +1,9 @@
+{
+  "database": "dgraph",
+  "query_category": "join",
+  "query_variant": 1,
+  "description": "Non-Indexed Columns: Join supplier and customer through nations on non-indexed comment keywords",
+  "run_number": 1,
+  "timestamp": 1775724791.293567,
+  "execution_time_s": 2.185495
+}

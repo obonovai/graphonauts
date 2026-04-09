@@ -3,7 +3,7 @@
 - [x] Neo4j
 - [x] Memgraph
 - [x] ArangoDB
-- [ ] DGraph
+- [x] DGraph
 - [ ] NebulaGraph
 - [ ] JanusGraph
      - [ ] BerkeleyDB (for single-node)

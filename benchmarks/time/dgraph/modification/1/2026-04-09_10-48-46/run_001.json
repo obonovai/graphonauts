@@ -1,0 +1,9 @@
+{
+  "database": "dgraph",
+  "query_category": "modification",
+  "query_variant": 1,
+  "description": "Non-Indexed Columns Sorting: Sort products by brand",
+  "run_number": 1,
+  "timestamp": 1775724533.71713,
+  "execution_time_s": 1.014826
+}

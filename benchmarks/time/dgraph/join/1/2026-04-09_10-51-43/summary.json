@@ -1,0 +1,17 @@
+{
+  "database": "dgraph",
+  "query_category": "join",
+  "query_variant": 1,
+  "description": "Non-Indexed Columns: Join supplier and customer through nations on non-indexed comment keywords",
+  "num_runs": 1,
+  "mean_s": 2.185495,
+  "median_s": 2.185495,
+  "stdev_s": 0.0,
+  "min_s": 2.185495,
+  "max_s": 2.185495,
+  "percentile_5_s": 2.185495,
+  "percentile_95_s": 2.185495,
+  "all_times_s": [
+    2.185495
+  ]
+}

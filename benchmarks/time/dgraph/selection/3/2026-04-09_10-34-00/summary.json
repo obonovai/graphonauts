@@ -1,0 +1,17 @@
+{
+  "database": "dgraph",
+  "query_category": "selection",
+  "query_variant": 3,
+  "description": "Indexed Columns: Select supplier with the ID 1337",
+  "num_runs": 1,
+  "mean_s": 0.006152,
+  "median_s": 0.006152,
+  "stdev_s": 0.0,
+  "min_s": 0.006152,
+  "max_s": 0.006152,
+  "percentile_5_s": 0.006152,
+  "percentile_95_s": 0.006152,
+  "all_times_s": [
+    0.006152
+  ]
+}

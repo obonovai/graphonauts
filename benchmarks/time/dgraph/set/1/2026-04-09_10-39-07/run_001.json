@@ -1,0 +1,9 @@
+{
+  "database": "dgraph",
+  "query_category": "set",
+  "query_variant": 1,
+  "description": "Union: Get a list of contacts (phone) for both suppliers and customers",
+  "run_number": 1,
+  "timestamp": 1775723954.091031,
+  "execution_time_s": 1.142293
+}

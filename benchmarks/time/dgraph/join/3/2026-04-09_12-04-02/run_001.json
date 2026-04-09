@@ -1,0 +1,9 @@
+{
+  "database": "dgraph",
+  "query_category": "join",
+  "query_variant": 3,
+  "description": "Complex Join 1: Retrieve all order details (limited to 10000 customers \u2014 DQL nested response format OOMs on full dataset)",
+  "run_number": 1,
+  "timestamp": 1775729059.410159,
+  "execution_time_s": 11.042434
+}

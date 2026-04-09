@@ -1,0 +1,10 @@
+{
+  "database": "dgraph",
+  "query_category": "set",
+  "query_variant": 3,
+  "description": "Difference: Find customers who have not made any orders",
+  "timestamp": 1775724490.574634,
+  "memory_baseline_mb": 97.449219,
+  "memory_peak_mb": 638.664062,
+  "memory_usage_mb": 541.214844
+}

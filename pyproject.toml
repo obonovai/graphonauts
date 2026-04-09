@@ -40,6 +40,11 @@ neo4j = "^5.23.0"
 [tool.poetry.group.arangodb.dependencies]
 python-arango = "^8.1.0"
 
+[tool.poetry.group.dgraph]
+
+[tool.poetry.group.dgraph.dependencies]
+pydgraph = "^25.2.0"
+
 [tool.ruff]
 line-length = 120
 output-format = "full"
@@ -64,6 +69,8 @@ memgraph-up = {cmd = "docker compose -f src/graphonauts/memgraph_db/docker-compo
 memgraph-down = {cmd = "docker compose -f src/graphonauts/memgraph_db/docker-compose.yml down"}
 arangodb-up = {cmd = "docker compose -f src/graphonauts/arangodb_db/docker-compose.yml up -d"}
 arangodb-down = {cmd = "docker compose -f src/graphonauts/arangodb_db/docker-compose.yml down"}
+dgraph-up = {cmd = "docker compose -f src/graphonauts/dgraph_db/docker-compose.yml up -d"}
+dgraph-down = {cmd = "docker compose -f src/graphonauts/dgraph_db/docker-compose.yml down"}
 
 [tool.mypy]
 strict = true

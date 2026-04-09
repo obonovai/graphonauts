@@ -23,4 +23,5 @@ DB_MODULES: dict[str, str] = {
     "neo4j": "graphonauts.neo4j_db",
     "memgraph": "graphonauts.memgraph_db",
     "arangodb": "graphonauts.arangodb_db",
+    "dgraph": "graphonauts.dgraph_db",
 }
