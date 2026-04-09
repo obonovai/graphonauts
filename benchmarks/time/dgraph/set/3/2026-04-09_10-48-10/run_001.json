@@ -1,0 +1,9 @@
+{
+  "database": "dgraph",
+  "query_category": "set",
+  "query_variant": 3,
+  "description": "Difference: Find customers who have not made any orders",
+  "run_number": 1,
+  "timestamp": 1775724497.426384,
+  "execution_time_s": 0.692598
+}

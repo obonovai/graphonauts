@@ -1,0 +1,10 @@
+{
+  "database": "dgraph",
+  "query_category": "set",
+  "query_variant": 2,
+  "description": "Intersection: Find common nations between suppliers and customers",
+  "timestamp": 1775723964.504731,
+  "memory_baseline_mb": 88.980469,
+  "memory_peak_mb": 598.722656,
+  "memory_usage_mb": 509.742188
+}

@@ -1,0 +1,31 @@
+services:
+  dgraph-zero:
+    image: dgraph/dgraph:v24.0.2
+    container_name: dgraph-zero-graphonaut
+    command: dgraph zero --my=dgraph-zero:5080
+    ports:
+      - "5080:5080"  # gRPC internal
+      - "6080:6080"  # HTTP admin
+    volumes:
+      - dgraph_zero_data:/dgraph
+
+  dgraph-alpha:
+    image: dgraph/dgraph:v24.0.2
+    container_name: dgraph-alpha-graphonaut
+    command: dgraph alpha --my=dgraph-alpha:7080 --zero=dgraph-zero:5080 --security whitelist=0.0.0.0/0
+    depends_on:
+      - dgraph-zero
+    ports:
+      - "7080:7080"  # gRPC internal
+      - "8080:8080"  # HTTP (Ratel UI + admin)
+      - "9080:9080"  # gRPC (client connection)
+    volumes:
+      - dgraph_alpha_data:/dgraph
+    deploy:
+      resources:
+        limits:
+          memory: 32G
+
+volumes:
+  dgraph_zero_data:
+  dgraph_alpha_data:

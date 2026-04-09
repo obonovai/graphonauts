@@ -1,0 +1,10 @@
+{
+  "database": "dgraph",
+  "query_category": "modification",
+  "query_variant": 2,
+  "description": "Indexed Columns Sorting: Sort products by brand",
+  "timestamp": 1775724552.267745,
+  "memory_baseline_mb": 107.1875,
+  "memory_peak_mb": 209.246094,
+  "memory_usage_mb": 102.058594
+}

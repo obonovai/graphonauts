@@ -1,0 +1,8 @@
+{
+  "database": "dgraph",
+  "timestamp": 1775716954.02596,
+  "total_time_s": 1423.817962,
+  "memory_baseline_mb": 73.738281,
+  "memory_peak_mb": 5058.101562,
+  "memory_usage_mb": 4984.363281
+}

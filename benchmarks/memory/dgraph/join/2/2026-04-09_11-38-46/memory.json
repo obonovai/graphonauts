@@ -1,0 +1,10 @@
+{
+  "database": "dgraph",
+  "query_category": "join",
+  "query_variant": 2,
+  "description": "Indexed Columns: Join all products with their orders",
+  "timestamp": 1775727526.3706932,
+  "memory_baseline_mb": 128.464844,
+  "memory_peak_mb": 7008.523438,
+  "memory_usage_mb": 6880.058594
+}

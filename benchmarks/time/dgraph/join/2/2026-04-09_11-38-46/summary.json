@@ -1,0 +1,17 @@
+{
+  "database": "dgraph",
+  "query_category": "join",
+  "query_variant": 2,
+  "description": "Indexed Columns: Join all products with their orders",
+  "num_runs": 1,
+  "mean_s": 52.77852,
+  "median_s": 52.77852,
+  "stdev_s": 0.0,
+  "min_s": 52.77852,
+  "max_s": 52.77852,
+  "percentile_5_s": 52.77852,
+  "percentile_95_s": 52.77852,
+  "all_times_s": [
+    52.77852
+  ]
+}

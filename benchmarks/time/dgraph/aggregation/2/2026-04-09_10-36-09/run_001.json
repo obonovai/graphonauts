@@ -1,0 +1,9 @@
+{
+  "database": "dgraph",
+  "query_category": "aggregation",
+  "query_variant": 2,
+  "description": "MAX: Find the most expensive product per brand",
+  "run_number": 1,
+  "timestamp": 1775723775.4943612,
+  "execution_time_s": 0.721858
+}
